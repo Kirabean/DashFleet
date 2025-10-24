@@ -15,7 +15,6 @@ import Papa from "papaparse";
 import "./App.css";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import VehiclesList from "./VehiclesList";
-import EVBus from "./EVBus";
 import ActiveMaintenance from "./ActiveMaintenance";
 import PredictedFailures from "./PredictedFailures";
 import HomePage from "./HomePage";
