@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DashFleet/static/css/main.81c9bd39.css",
+    "main.js": "/DashFleet/static/js/main.45f8dc35.js",
+    "static/js/453.d489269b.chunk.js": "/DashFleet/static/js/453.d489269b.chunk.js",
+    "index.html": "/DashFleet/index.html",
+    "main.81c9bd39.css.map": "/DashFleet/static/css/main.81c9bd39.css.map",
+    "main.45f8dc35.js.map": "/DashFleet/static/js/main.45f8dc35.js.map",
+    "453.d489269b.chunk.js.map": "/DashFleet/static/js/453.d489269b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81c9bd39.css",
+    "static/js/main.45f8dc35.js"
+  ]
+}
